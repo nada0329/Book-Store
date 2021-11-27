@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638023103 source:f:\github app\book-store\book-store\src\book.cpp
+	"Book.h"
+
+1638019979 f:\github app\book-store\book-store\book.h
+	<iostream>
+	<string>
+
+1638020876 source:f:\github app\book-store\book-store\main.cpp
+	"Book.h"
+
